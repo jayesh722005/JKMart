@@ -1,0 +1,19 @@
+
+.Bredcrum img
+{
+    height: 20px;
+    width: 20px;
+}
+.all{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0 0;
+    font-size: 20px;
+}
+.Bredcrum{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

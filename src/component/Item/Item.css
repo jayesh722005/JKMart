@@ -1,0 +1,35 @@
+.item
+{
+    height: 372px;
+    width: 212px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 30px;
+    
+transition: 0.5s;
+}
+
+.item:hover{
+   transform: scale(1.05);
+}
+.item img{
+    object-fit: cover;
+    height: 300px;
+    width: 208px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+   
+}
+
+.item-price
+{
+   display: flex;
+   gap: 15px; 
+}
+.old-price
+{
+    text-decoration: line-through;
+}

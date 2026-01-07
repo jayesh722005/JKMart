@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');    
+.popular{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   background: linear-gradient(180deg,#e1ffea22,#94f0c8 60%);
+   padding-bottom: 50px;
+}
+.women-popular
+{
+    width: 80% ;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.heading
+{
+    margin-top: 10px;
+   height: 8px;
+   width: 400px;
+   background-color: black;
+ 
+}
+.popular h1{
+    font-size: 60px;
+    font-family: "BBH Bogle", sans-serif;
+    font-weight: 900;
+  font-style: normal;
+}
