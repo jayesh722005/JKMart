@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');    
 .shopcategory img{
     width: 100%;
     height: 50vh;
 }
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');    
+
 .shopcategory{
     width: 100%;
     display: flex;
