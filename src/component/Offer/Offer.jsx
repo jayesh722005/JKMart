@@ -1,5 +1,5 @@
 import React from 'react'
-import "../Offer/Offer.css"
+import "./Offer.css"
 import exclu from "../../assets/exclu.webp"
 function Offer() {
   return (
