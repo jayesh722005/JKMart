@@ -1,5 +1,5 @@
 import React from "react";
-import "./productdisplay.css";
+import "./ProductDisplay.css";
 import star_icon from "../../assets/star_icon.png";
 import star_dull_icon from "../../assets/star_dull_icon.png";
 import { useContext } from "react";
