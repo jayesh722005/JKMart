@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Bredcrum/Bredcrum.css'
+import './Bredcrum.css'
 import arrow_icon from '../../assets/arrow_icon.png'
 // import Product from '../../pages/Product'
 
