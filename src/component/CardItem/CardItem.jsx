@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import "./CardItem.css";
+import "./cardItem.css";
 import remove_icon from "../../assets/remove.webp";
 import { Datacontext } from "../../context/Shopcontext";
 function CardItem() {
