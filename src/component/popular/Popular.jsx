@@ -2,7 +2,7 @@
 import React from 'react'
 import data_product from '../../assets/data'
 import Item from '../Item/Item.jsx'
-import "../popular/popular.css"
+import "./Popular.css"
 function Popular() {
   return (
     <div>
