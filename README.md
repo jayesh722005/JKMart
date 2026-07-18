@@ -4,6 +4,12 @@ A modern and responsive e-commerce web application built using **React.js** and 
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Demo:** https://jk-mart-emza.vercel.app/
+
+---
+
 ## 📌 Project Overview
 
 JKMart is designed to simulate a real-world online shopping platform where users can browse products, search for items, view product details, and manage their shopping cart.
@@ -37,7 +43,7 @@ JKMart is designed to simulate a real-world online shopping platform where users
 
 ## 📂 Project Structure
 
-```
+```text
 JKMart
 │
 ├── public/
@@ -84,7 +90,7 @@ npm run dev
 
 The application will run on:
 
-```
+```text
 http://localhost:5173
 ```
 
@@ -92,27 +98,27 @@ http://localhost:5173
 
 ## 📷 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
 _Add your screenshot here_
 
-```
+```text
 assets/home.png
 ```
 
-### Product Page
+### 📦 Product Page
 
 _Add your screenshot here_
 
-```
+```text
 assets/products.png
 ```
 
-### Cart Page
+### 🛒 Cart Page
 
 _Add your screenshot here_
 
-```
+```text
 assets/cart.png
 ```
 
@@ -120,13 +126,13 @@ assets/cart.png
 
 ## 📈 Future Improvements
 
-- User Authentication
-- Wishlist
-- Payment Gateway
-- Order History
-- Product Reviews
-- Admin Dashboard
-- Dark Mode
+- 🔐 User Authentication
+- ❤️ Wishlist
+- 💳 Payment Gateway
+- 📦 Order History
+- ⭐ Product Reviews
+- 🛠️ Admin Dashboard
+- 🌙 Dark Mode
 
 ---
 
@@ -134,15 +140,14 @@ assets/cart.png
 
 **Jayesh Khatke**
 
-GitHub: https://github.com/jayesh722005
-
-LinkedIn: *(Add your LinkedIn profile)*
+- **GitHub:** https://github.com/jayesh722005
+- **LinkedIn:** *(Add your LinkedIn profile)*
 
 ---
 
 ## ⭐ Support
 
-If you like this project, don't forget to ⭐ star the repository.
+If you like this project, don't forget to ⭐ **star the repository**!
 
 ---
 
